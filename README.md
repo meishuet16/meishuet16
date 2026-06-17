@@ -7,6 +7,7 @@
 | Project | Description | Event / Context |
 |---|---|---|
 | [UTMBright](https://github.com/meishuet16/UTMBright.git) | 🏆 Championship-winning rapid prototype | CodeNection 2025 |
+| [SeedDown](https://github.com/meishuet16/Seed_down.git) | 🏆  Netizen's Choice Award | Digitex2026 |
 | [PAYUNG](https://github.com/meishuet16/GodamLah2.0.git) | "Identity is Survival." Malaysia's First Offline-First Disaster Operating System. | GodamLah2.0 |
 | [Warung Wise](https://github.com/meishuet16/Warung-Wise.git) | AI-powered financial partner for micro-hawkers (Gemini 2.5 Flash) | KitaHack 2026 |
 | [EcoRabbit](https://github.com/meishuet16/SDG-XI-Hackathon.git) | AI Housing Assistant for Sustainable Cities | SDG-XI-Hackathon |
