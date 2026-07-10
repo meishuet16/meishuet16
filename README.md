@@ -1,6 +1,26 @@
 # 💫 About Me:
 <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400px">
-👋 Hi, I'm Lee Mei Shuet!  <br>Year 2 Software Engineering Student | CodeNection 2025 Champion | Universiti Teknologi Malaysia  <br>Passionate about the intersection of Mobile Development and Artificial Intelligence. I deeply believe that technology is at its best when it solves real-world socioeconomic challenges and empowers underserved communities. <br><br>At the same time, I believe great code is like a good badminton match: it requires strategy, agility, and perfect execution. 🏸 When I'm not architecting systems with clean OOP principles or fine-tuning AI models, you'll probably find me cycling around UTM or admiring 16-bit retro pixel art. 👾<br><br>✨ The Highlights & Philosophy:<br>- 🏆 Proven Problem Solver: Champion of CodeNection Hackathon 2025, demonstrating rapid prototyping, seamless team synergy, and technical excellence under 48-hour pressure.<br>- 🏗️ Solid Foundations: I thrive throughout the entire SDLC—moving efficiently from conceptualization and design to final deployment in fast-paced Agile environments.<br>- 🌱 Current Focus: Continuously exploring the "Next" in tech to build user-centric mobile solutions that bridge digital gaps.<br><br>🛠️ Technical Toolbox:<br>- Languages: Dart, Java, C++, HTML, CSS, JavaScript, SQL<br>- Frameworks & Tools: Flutter, Firebase, Git<br>- Specialization: Generative AI (Gemini / Vertex AI), SDLC, OOP, Mobile App Architecture<br><br>👇 *Check out my pinned repositories below for my latest AI integrations and Flutter projects!* <br>
+
+👋 Hi, I'm **Lee Mei Shuet** — a Year 2 Software Engineering student at **Universiti Teknologi Malaysia** and **CodeNection 2025 Champion**.
+
+I'm passionate about building **mobile, AI, and full-stack solutions** that solve real-world socioeconomic problems and support underserved communities.
+
+Great code, to me, is a lot like a good badminton match: strategy, agility, and clean execution. 🏸  
+When I'm not building apps or experimenting with AI, you'll probably find me cycling around UTM or admiring 16-bit retro pixel art. 👾
+
+### ✨ Highlights
+
+- 🏆 **Hackathon Builder:** CodeNection 2025 Champion with experience building under intense 48-hour pressure.
+- 🏗️ **Solid Foundations:** Comfortable across SDLC, OOP, Agile workflows, and full-stack/mobile architecture.
+- 🌱 **Current Focus:** Exploring AI-powered mobile experiences that bridge digital gaps.
+
+### 🛠️ Technical Toolbox
+
+- **Languages:** Dart, Java, C++, HTML, CSS, JavaScript, SQL
+- **Frameworks & Tools:** Flutter, Firebase, Vue, Node.js, Express, MySQL, Git
+- **Specialization:** Generative AI, Gemini / Vertex AI, Mobile App Architecture, SDLC, OOP
+
+👇 *Check out my featured repositories below for my latest AI integrations, mobile apps, and full-stack projects!*
 
 ### 📌 Featured Competition Projects
 
@@ -75,5 +95,6 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=meishuet16&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
+
 
 
