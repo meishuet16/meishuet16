@@ -12,6 +12,31 @@
 | [Warung Wise](https://github.com/meishuet16/Warung-Wise.git) | AI-powered financial partner for micro-hawkers (Gemini 2.5 Flash) | KitaHack 2026 |
 | [EcoRabbit](https://github.com/meishuet16/SDG-XI-Hackathon.git) | AI Housing Assistant for Sustainable Cities | SDG-XI-Hackathon |
 
+### 🏆 Competition Projects — Roles & Contributions
+
+| Project | Role | Verified contributions | Visible commit share* |
+|---|---|---|---:|
+| [**UTMBright / JustBrightForUTM**](https://github.com/meishuet16/UTMBright) · CodeNection 2025 **Champion** | Mobile App Developer · AI/Safety Feature Contributor | Contributed to the smart campus safety app across student-facing safety flows, community mobility ideas, SOS/emergency experience, AI companion direction, and final hackathon delivery. | **27 / 120 (22.5%)** |
+| [**SeedDown**](https://github.com/meishuet16/Seed_down) · UTMxHackathon'26 / DIGITEX 2026 | Full-Stack & AI/IoT Contributor | Contributed to the AI + IoT vertical farming platform, including dashboard experience, Firebase-backed data flow, AI threshold/advisor features, documentation, and judge-facing product polish. | **29 / 215 (13.5%)** |
+| [**ShieldScan AI**](https://github.com/meishuet16/shieldscan) · Project 2030 Hackathon | AI Security Builder · Repository Owner | Built the fraud-intelligence prototype with multimodal scan inputs, Gemini-powered analysis, bilingual reporting, FastAPI/Flutter Web direction, and Cloud Run deployment materials. | **12 / 12 (100%)** |
+| [**EcoRabbit**](https://github.com/meishuet16/SDG-XI-Hackathon) · SDG XI Hackathon | AI Housing Assistant Contributor | Contributed to the sustainable housing assistant concept, commute-first recommendation flow, SDG 11 framing, AI insight experience, and project documentation. | **6 / 27 (22.2%)** |
+| [**PAYUNG**](https://github.com/meishuet16/GodamLah2.0) · GodamLah2.0 | Product Concept & Disaster-Tech Contributor | Contributed to the offline-first disaster-response concept around identity, health profiles, victim/rescuer workflows, and pitch direction. Visible commits in this repository are authored under teammate accounts. | **0 / 9 (0%)** |
+| [**Warung Wise**](https://github.com/meishuet16/Warung-Wise) · KitaHack 2026 | AI FinTech Mobile Contributor | Built and documented an AI-powered micro-hawker finance solution covering receipt understanding, voice ledger, profit intelligence, loan simulation, and P&L reporting ideas. | **18 / 38 (47.4%)** |
+
+### 💻 Individual Projects & Coursework
+
+| Project | Role | Verified contributions | Visible commit share* |
+|---|---|---|---:|
+| [**Employee Directory**](https://github.com/meishuet16/Employee-Directory-with-Vue-3-Axios-Express-and-MySQL) | Full-Stack Developer | Built the Vue 3 interface, Axios service layer, Express API, MySQL schema, prepared queries, CRUD/search/sort flows, validation notes, and responsive layout. | **19 / 19 (100%)** |
+| [**Student Records Manager**](https://github.com/meishuet16/Student-Records-Manager-with-Vue-3-Axios-Express-and-MySQL) | Full-Stack Developer | Built a database-backed student records management system using Vue 3, Axios, Express, and MySQL. | **11 / 11 (100%)** |
+| [**Real-Time Data Dashboard**](https://github.com/meishuet16/lab3_-Real-Time-Data-Dashboard-with-Fetch-API-jQuery-) | Frontend Developer | Practiced Fetch API, jQuery DOM updates, dashboard rendering, and browser-side data interaction. | **31 / 31 (100%)** |
+| [**Kanban Style Task Manager**](https://github.com/meishuet16/Lab2-Kanban-Style-Task-Manager) | Frontend Developer | Built a Kanban-style task board to practice task state, movement, layout, and interactive UI behavior. | **31 / 31 (100%)** |
+| [**QuickNote Dashboard**](https://github.com/meishuet16/QuickNote_dashboard-BOM-DOM-lab-activity-) | Frontend Developer | Practiced BOM/DOM manipulation through a quick note dashboard activity. | **28 / 28 (100%)** |
+| [**HTML Lab Exercise 1**](https://github.com/meishuet16/html-lab-exercise1) | Web Developer | Completed foundational HTML/CSS coursework with structured pages and styling practice. | **30 / 30 (100%)** |
+| [**GitHub Profile**](https://github.com/meishuet16/meishuet16) | Profile Maintainer | Maintains this GitHub profile README, project highlights, badges, stats, and portfolio presentation. | **12 / 12 (100%)** |
+
+<sub>*Visible commit share is calculated from non-merge commits visible in the public Git history as of 10 July 2026. It is evidence of repository activity, not a perfect measure of ownership; pair work, offline work, imported files, squashed commits, and teammate-authored commits may not be represented proportionally.</sub>
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meishuetlee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meishuet16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meishuetlee8@gmail.com) 
