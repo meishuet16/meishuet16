@@ -19,8 +19,8 @@
 | Project | Role | Verified contributions |
 |---|---|---|
 | [**Tree Mapping Data System**](https://github.com/jiahui-1101/Tree_Mapping_Data_System) | Application Development Team Contributor | Contributed to the Johor Botanical Garden full-stack prototype covering role-based workflows, tree inventory, ranger field operations, visitor education, QR-based access, and map/visualization features. |
-| [**Tree Mapping Data System Prototype**](https://github.com/jiahui-1101/TreeMappingDataSystem) | Frontend Prototype Contributor | Contributed to the earlier React/Vite prototype with mock data, simulated AI responses, role-based flows, QR access, and garden map decision-support ideas. |
-| [**Eventora — Event Registration & Check-In System**](https://github.com/jiahui-1101/Event-Registration-and-Check-In-System) | C++ Developer · Data Structures Contributor | Built and integrated console-based event registration/check-in workflows using queues and singly linked lists, including participant registration, waiting list logic, organizer check-in, admin tasks, searching/sorting, and file persistence. |
+| [**EventOra**](https://github.com/Christting/EventOra) | Full-Stack Event Platform Contributor | Contributed to a campus event management and ticketing platform covering event discovery, registration/checkout flows, ticket wallet, QR check-in, organiser dashboards, feedback, notifications, and deployment-ready Vue + Slim + MySQL integration. |
+| [**Event Registration & Check-In System**](https://github.com/jiahui-1101/Event-Registration-and-Check-In-System) | C++ Developer · Data Structures Contributor | Built and integrated console-based event registration/check-in workflows using queues and singly linked lists, including participant registration, waiting list logic, organizer check-in, admin tasks, searching/sorting, and file persistence. |
 
 ### 💻 Individual Projects & Coursework
 
