@@ -2,27 +2,17 @@
 <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400px">
 👋 Hi, I'm Lee Mei Shuet!  <br>Year 2 Software Engineering Student | CodeNection 2025 Champion | Universiti Teknologi Malaysia  <br>Passionate about the intersection of Mobile Development and Artificial Intelligence. I deeply believe that technology is at its best when it solves real-world socioeconomic challenges and empowers underserved communities. <br><br>At the same time, I believe great code is like a good badminton match: it requires strategy, agility, and perfect execution. 🏸 When I'm not architecting systems with clean OOP principles or fine-tuning AI models, you'll probably find me cycling around UTM or admiring 16-bit retro pixel art. 👾<br><br>✨ The Highlights & Philosophy:<br>- 🏆 Proven Problem Solver: Champion of CodeNection Hackathon 2025, demonstrating rapid prototyping, seamless team synergy, and technical excellence under 48-hour pressure.<br>- 🏗️ Solid Foundations: I thrive throughout the entire SDLC—moving efficiently from conceptualization and design to final deployment in fast-paced Agile environments.<br>- 🌱 Current Focus: Continuously exploring the "Next" in tech to build user-centric mobile solutions that bridge digital gaps.<br><br>🛠️ Technical Toolbox:<br>- Languages: Dart, Java, C++, HTML, CSS, JavaScript, SQL<br>- Frameworks & Tools: Flutter, Firebase, Git<br>- Specialization: Generative AI (Gemini / Vertex AI), SDLC, OOP, Mobile App Architecture<br><br>👇 *Check out my pinned repositories below for my latest AI integrations and Flutter projects!* <br>
 
-### 📌 Featured Projects
+### 📌 Featured Competition Projects
 
-| Project | Description | Event / Context |
-|---|---|---|
-| [UTMBright](https://github.com/meishuet16/UTMBright.git) | 🏆 Championship-winning rapid prototype | CodeNection 2025 |
-| [SeedDown](https://github.com/meishuet16/Seed_down.git) | 🏆  Netizen's Choice Award | Digitex2026 |
-| [PAYUNG](https://github.com/meishuet16/GodamLah2.0.git) | "Identity is Survival." Malaysia's First Offline-First Disaster Operating System. | GodamLah2.0 |
-| [Warung Wise](https://github.com/meishuet16/Warung-Wise.git) | AI-powered financial partner for micro-hawkers (Gemini 2.5 Flash) | KitaHack 2026 |
-| [EcoRabbit](https://github.com/meishuet16/SDG-XI-Hackathon.git) | AI Housing Assistant for Sustainable Cities | SDG-XI-Hackathon |
-
-### 🏆 Competition Projects — Roles & Contributions
-
-| Project | Role | Verified contributions |
-|---|---|---|
-| [**UTMBright / JustBrightForUTM**](https://github.com/jiahui-1101/CodeNection) · CodeNection 2025 **Champion** | Mobile App Developer · AI/Safety Feature Contributor | Contributed to the smart campus safety app across student-facing safety flows, community mobility ideas, SOS/emergency experience, AI companion direction, and final hackathon delivery. |
-| [**SeedDown**](https://github.com/jiahui-1101/SeedDown) · UTMxHackathon'26 / DIGITEX 2026 | Full-Stack & AI/IoT Contributor | Contributed to the AI + IoT vertical farming platform, including dashboard experience, Firebase-backed data flow, AI threshold/advisor features, documentation, and judge-facing product polish. |
-| [**ShieldScan AI**](https://github.com/meishuet16/shieldscan) · Project 2030 Hackathon | AI Security Builder · Repository Owner | Built the fraud-intelligence prototype with multimodal scan inputs, Gemini-powered analysis, bilingual reporting, FastAPI/Flutter Web direction, and Cloud Run deployment materials. |
-| [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) · SDG XI Hackathon | AI Housing Assistant Contributor | Contributed to the sustainable housing assistant concept, commute-first recommendation flow, SDG 11 framing, AI insight experience, and project documentation. |
-| [**PAYUNG**](https://github.com/meishuet16/GodamLah2.0) · GodamLah2.0 | Product Concept & Disaster-Tech Contributor | Contributed to the offline-first disaster-response concept around identity, health profiles, victim/rescuer workflows, and pitch direction. |
-| [**Warung Wise**](https://github.com/meishuet16/Warung-Wise) · KitaHack 2026 | AI FinTech Mobile Contributor | Built and documented an AI-powered micro-hawker finance solution covering receipt understanding, voice ledger, profit intelligence, loan simulation, and P&L reporting ideas. |
-| [**NextTalent**](https://github.com/jiahui-1101/Talentbank_Tech_Hackathon) · Talentbank Tech Hackathon | UI / Prototype Contributor | Contributed UI updates and prototype polish for a talent-tech hackathon project focused on retention signals, dashboards, and candidate/employee experience flows. |
+| Project | Event / Recognition | Role | Verified contributions |
+|---|---|---|---|
+| [**UTMBright / JustBrightForUTM**](https://github.com/jiahui-1101/CodeNection) | CodeNection 2025 **Champion** | Mobile App Developer · AI/Safety Feature Contributor | Contributed to the smart campus safety app across student-facing safety flows, community mobility ideas, SOS/emergency experience, AI companion direction, and final hackathon delivery. |
+| [**SeedDown**](https://github.com/jiahui-1101/SeedDown) | UTMxHackathon'26 · DIGITEX 2026 **Netizen's Choice Award** | Full-Stack & AI/IoT Contributor | Contributed to the AI + IoT vertical farming platform, including dashboard experience, Firebase-backed data flow, AI threshold/advisor features, documentation, and judge-facing product polish. |
+| [**ShieldScan AI**](https://github.com/meishuet16/shieldscan) | Project 2030 Hackathon · Secure Digital Track | AI Security Builder · Repository Owner | Built the fraud-intelligence prototype with multimodal scan inputs, Gemini-powered analysis, bilingual reporting, FastAPI/Flutter Web direction, and Cloud Run deployment materials. |
+| [**PAYUNG**](https://github.com/meishuet16/GodamLah2.0) | GodamLah2.0 | Product Concept & Disaster-Tech Contributor | Contributed to the offline-first disaster-response concept around identity, health profiles, victim/rescuer workflows, and pitch direction. |
+| [**Warung Wise**](https://github.com/meishuet16/Warung-Wise) | KitaHack 2026 | AI FinTech Mobile Contributor | Built and documented an AI-powered micro-hawker finance solution covering receipt understanding, voice ledger, profit intelligence, loan simulation, and P&L reporting ideas. |
+| [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | SDG XI Hackathon | AI Housing Assistant Contributor | Contributed to the sustainable housing assistant concept, commute-first recommendation flow, SDG 11 framing, AI insight experience, and project documentation. |
+| [**NextTalent**](https://github.com/jiahui-1101/Talentbank_Tech_Hackathon) | Talentbank Tech Hackathon | UI / Prototype Contributor | Contributed UI updates and prototype polish for a talent-tech hackathon project focused on retention signals, dashboards, and candidate/employee experience flows. |
 
 ### 🤝 Collaborative & Academic Projects
 
@@ -85,4 +75,5 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=meishuet16&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
+
 
