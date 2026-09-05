@@ -13,13 +13,13 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 - 🏆 **CodeNection 2025 Champion** — shipped a smart-campus mobile product under hackathon pressure.
 - 🌱 **Award-winning AI + IoT builder** — SeedDown received the **DIGITEX 2026 Netizen's Choice Award**, was a **2nd Smart Earth Hackathon Finalist**, and an **UTMxHackathon '26 Top 10 Finalist**.
 - 🌲 **Indie project creator** — built **Walk Back Home**, a browser + Android personal memory RPG with authored interactive chapters.
-- 🧠 **Product-minded engineer** — comfortable moving between mobile, full-stack, AI, IoT, product design, and rapid prototyping.
+- 🧠 **Product-minded engineer** — comfortable moving between mobile, full-stack, AI, IoT, product design, workflow automation, and rapid prototyping.
 
 ### 🛠️ Technical Toolbox
 
 - **Languages:** Dart, Java, C++, JavaScript, TypeScript, Python, SQL, HTML, CSS
-- **Frameworks & Tools:** Flutter, Vue, React, Vite, Node.js, Express, FastAPI, Firebase, MySQL, Supabase, Capacitor, Git
-- **AI / Cloud / IoT:** Gemini, Vertex AI, Google Cloud, ESP32
+- **Frameworks & Tools:** Flutter, Vue, React, Vite, Node.js, Express, FastAPI, Streamlit, Firebase, MySQL, Supabase, Capacitor, Git
+- **AI / Cloud / IoT:** Gemini, Vertex AI, Snowflake, Google Cloud, ESP32
 
 ---
 
@@ -48,7 +48,7 @@ Smart-campus mobile platform for student safety, mobility, emergency support, an
 **🏅 2nd Smart Earth Hackathon Finalist**  
 **🏅 UTMxHackathon '26 Top 10 Finalist**
 
-<!-- Approved card image: user-provided SeedDown 3D Farm Command Center screenshot (#6). -->
+<a href="https://seed-down.vercel.app"><img src="./assets/featured/seeddown-card.jpg" width="100%" alt="SeedDown 3D Farm Command Center" /></a>
 
 AI + IoT vertical-farming platform turning live sensor data into grower-facing insights and decisions.
 
@@ -64,7 +64,7 @@ AI + IoT vertical-farming platform turning live sensor data into grower-facing i
 ### 🌲 Walk Back Home
 **Personal Project · Creator & Developer**
 
-<!-- Approved card image: user-provided Walk Back Home title screen screenshot (#1). -->
+<p align="center"><a href="https://ms-walk-back-home.vercel.app"><img src="https://raw.githubusercontent.com/meishuet16/ms-walk-back-home/main/android/app/src/main/ic_launcher-playstore.png" width="190" alt="Walk Back Home app icon" /></a></p>
 
 *What if your diary was not something you read, but somewhere you could return to?*
 
@@ -80,7 +80,7 @@ A browser + Android personal memory RPG that turns diary entries into explorable
 ### 🛡️ ShieldScan AI
 **Project 2030 Hackathon · Secure Digital Track**
 
-<!-- Approved card image: user-provided ShieldScan AI dashboard screenshot (#5). -->
+<a href="https://shieldscan-frontend.onrender.com"><img src="./assets/featured/shieldscan-card.jpg" width="100%" alt="ShieldScan AI dashboard" /></a>
 
 Multimodal fraud intelligence for suspicious URLs, text, and screenshots with streamed, explainable bilingual risk reports.
 
@@ -104,6 +104,13 @@ Multimodal fraud intelligence for suspicious URLs, text, and screenshots with st
 | [**PAYUNG**](https://github.com/meishuet16/GodamLah2.0) | GodamLah2.0 | Offline-first disaster-response concept around identity, health profiles, victim/rescuer workflows, and pitch direction. |
 | [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | SDG XI Hackathon | Sustainable housing assistant with commute-first recommendations, SDG 11 framing, and AI-assisted insights. |
 | [**NextTalent**](https://github.com/jiahui-1101/Talentbank_Tech_Hackathon) | Talentbank Tech Hackathon | UI and prototype work for a talent-tech product focused on retention signals and employee/candidate experience. |
+
+### 🤖 AI, Automation & Systems
+
+| Project | Focus |
+|---|---|
+| [**Revenue Assurance Investigation Agent**](https://github.com/meishuet16/ms-revenue-assurance-agent) | Snowflake-oriented revenue assurance workflow that detects billing variances, validates commercial evidence, and prepares auditable finance-review cases with deterministic SQL, agent skills, Cortex Search-ready evidence, and a Streamlit dashboard. |
+| [**CareHub AI**](https://github.com/meishuet16/CareHubAI) | AI-assisted smart bedside nursing prototype combining pressure-ulcer risk monitoring, IV drip status, alert prioritization, a nurse-station dashboard, and ESP32 hardware-mode support. |
 
 ### 🤝 Collaborative & Academic Projects
 
@@ -142,9 +149,9 @@ Multimodal fraud intelligence for suspicious URLs, text, and screenshots with st
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF.svg?style=for-the-badge&logo=capacitor&logoColor=white)
 
-**Backend, Database & Cloud**
+**Backend, Data & Cloud**
 
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **AI, IoT & Tools**
 
