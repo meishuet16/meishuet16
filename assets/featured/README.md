@@ -1,1 +1,0 @@
-Featured project card assets for the GitHub profile README.
