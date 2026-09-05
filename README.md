@@ -37,24 +37,6 @@ Smart-campus mobile platform for student safety, mobility, emergency support, an
 </td>
 <td width="50%" valign="top">
 
-### 🌱 SeedDown
-**🏆 DIGITEX 2026 Netizen's Choice Award**  
-**🏅 2nd Smart Earth Hackathon Finalist**  
-**🏅 UTMxHackathon '26 Top 10 Finalist**
-
-<a href="https://seed-down.vercel.app"><img src="./seeddown-card.png" width="100%" alt="SeedDown 3D Farm Command Center" /></a>
-
-AI + IoT vertical-farming platform turning live sensor data into grower-facing insights and decisions.
-
-`AI` `IoT` `Firebase` `ESP32`
-
-[Repository](https://github.com/jiahui-1101/SeedDown) · [▶ Live Prototype](https://seed-down.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🌲 Walk Back Home
 **Personal Project · Creator & Developer**
 
@@ -67,6 +49,24 @@ A browser + Android personal memory RPG that turns diary entries into explorable
 `TypeScript` `Vite` `Capacitor` `Supabase`
 
 [Repository](https://github.com/meishuet16/ms-walk-back-home) · [▶ Play Live](https://ms-walk-back-home.vercel.app) · [📱 APK](https://github.com/meishuet16/ms-walk-back-home/releases/tag/v0.1.0-alpha)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 SeedDown
+**🏆 DIGITEX 2026 Netizen's Choice Award**  
+**🏅 2nd Smart Earth Hackathon Finalist**  
+**🏅 UTMxHackathon '26 Top 10 Finalist**
+
+<a href="https://seed-down.vercel.app"><img src="./seeddown-card.png" width="100%" alt="SeedDown 3D Farm Command Center" /></a>
+
+AI + IoT vertical-farming platform turning live sensor data into grower-facing insights and decisions.
+
+`AI` `IoT` `Firebase` `ESP32`
+
+[Repository](https://github.com/jiahui-1101/SeedDown) · [▶ Live Prototype](https://seed-down.vercel.app)
 
 </td>
 <td width="50%" valign="top">
