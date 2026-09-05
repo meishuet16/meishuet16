@@ -11,7 +11,7 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 ### ✨ Highlights
 
 - 🏆 **CodeNection 2025 Champion** — shipped a smart-campus mobile product under hackathon pressure.
-- 🌱 **Award-winning AI + IoT builder** — SeedDown received the **DIGITEX 2026 Netizen's Choice Award**.
+- 🌱 **Award-winning AI + IoT builder** — SeedDown received the **DIGITEX 2026 Netizen's Choice Award**, was a **2nd Smart Earth Hackathon Finalist**, and a **UTMxHackathon '26 Top 10 Finalist**.
 - 🌲 **Indie project creator** — built **Walk Back Home**, a browser + Android personal memory RPG with authored interactive chapters.
 - 🧠 **Product-minded engineer** — comfortable moving between mobile, full-stack, AI, IoT, product design, and rapid prototyping.
 
@@ -32,7 +32,7 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 ### 🏆 UTMBright
 **CodeNection 2025 Champion**
 
-<a href="https://youtu.be/3rg5cUewwSQ"><img src="https://img.youtube.com/vi/3rg5cUewwSQ/maxresdefault.jpg" width="100%" alt="UTMBright demo walkthrough" /></a>
+<p align="center"><img src="https://raw.githubusercontent.com/jiahui-1101/CodeNection/main/assets/images/utmbright%20logoo.png" width="170" alt="UTMBright logo" /></p>
 
 Smart-campus mobile platform for student safety, mobility, emergency support, and campus life.
 
@@ -44,9 +44,11 @@ Smart-campus mobile platform for student safety, mobility, emergency support, an
 <td width="50%" valign="top">
 
 ### 🌱 SeedDown
-**UTMxHackathon'26 · DIGITEX 2026 Netizen's Choice Award**
+**DIGITEX 2026 Netizen's Choice Award**  
+**2nd Smart Earth Hackathon Finalist**  
+**UTMxHackathon '26 Top 10 Finalist**
 
-<a href="https://seed-down.vercel.app"><img src="https://image.thum.io/get/width/1280/crop/720/noanimate/https://seed-down.vercel.app" width="100%" alt="SeedDown dashboard" /></a>
+<!-- Approved SeedDown 16:9 dashboard image will replace this preview once stored in the profile repo. -->
 
 AI + IoT vertical-farming platform turning live sensor data into grower-facing insights and decisions.
 
@@ -62,7 +64,7 @@ AI + IoT vertical-farming platform turning live sensor data into grower-facing i
 ### 🌲 Walk Back Home
 **Personal Project · Creator & Developer**
 
-<a href="https://ms-walk-back-home.vercel.app"><img src="https://image.thum.io/get/width/1280/crop/720/noanimate/https://ms-walk-back-home.vercel.app" width="100%" alt="Walk Back Home browser game" /></a>
+<!-- Approved Walk Back Home title-screen image will replace this preview once stored in the profile repo. -->
 
 *What if your diary was not something you read, but somewhere you could return to?*
 
@@ -78,7 +80,7 @@ A browser + Android personal memory RPG that turns diary entries into explorable
 ### 🛡️ ShieldScan AI
 **Project 2030 Hackathon · Secure Digital Track**
 
-<a href="https://shieldscan-frontend.onrender.com"><img src="https://image.thum.io/get/width/1280/crop/720/noanimate/https://shieldscan-frontend.onrender.com" width="100%" alt="ShieldScan AI live application" /></a>
+<!-- Approved ShieldScan dashboard image will replace this preview once stored in the profile repo. -->
 
 Multimodal fraud intelligence for suspicious URLs, text, and screenshots with streamed, explainable bilingual risk reports.
 
