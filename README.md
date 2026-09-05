@@ -25,61 +25,70 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 
 ## ✨ Featured Work
 
-### 🏆 UTMBright / JustBrightForUTM
-**CodeNection 2025 Champion** · Smart Campus · Mobile · AI
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jiahui-1101/CodeNection/main/assets/images/utmbright%20logoo.png" width="150" alt="UTMBright logo" />
-</p>
+### 🏆 UTMBright
+**CodeNection 2025 Champion**
 
-A smart-campus mobile platform built around student safety, community mobility, emergency support, and a more connected university experience. I contributed across student-facing safety flows, SOS/emergency experience, AI companion direction, and final hackathon delivery.
+<a href="https://youtu.be/3rg5cUewwSQ"><img src="https://img.youtube.com/vi/3rg5cUewwSQ/maxresdefault.jpg" width="100%" alt="UTMBright demo walkthrough" /></a>
 
-**Flutter · Firebase · AI**  
-[Repository](https://github.com/jiahui-1101/CodeNection) · [📱 Download APK](https://github.com/jiahui-1101/CodeNection/releases/tag/UTMBright-v2.0)
+Smart-campus mobile platform for student safety, mobility, emergency support, and campus life.
 
----
+`Flutter` `Firebase` `AI`
+
+[Repository](https://github.com/jiahui-1101/CodeNection) · [▶ Demo](https://youtu.be/3rg5cUewwSQ) · [📱 APK](https://github.com/jiahui-1101/CodeNection/releases/tag/UTMBright-v2.0)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌱 SeedDown
-**UTMxHackathon'26 · DIGITEX 2026 Netizen's Choice Award** · AI + IoT
+**UTMxHackathon'26 · DIGITEX 2026 Netizen's Choice Award**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jiahui-1101/SeedDown/main/docs/posters/Poster3_Software%20Features%20%26%20User%20Experience.png" width="760" alt="SeedDown software features and user experience" />
-</p>
+<a href="https://seed-down.vercel.app"><img src="https://image.thum.io/get/width/1280/crop/720/noanimate/https://seed-down.vercel.app" width="100%" alt="SeedDown dashboard" /></a>
 
-An AI + IoT vertical-farming platform that turns live sensor data into grower-facing insights and decisions. I contributed to the dashboard experience, Firebase-backed data flow, intelligent threshold/advisor features, documentation, and judge-facing product polish.
+AI + IoT vertical-farming platform turning live sensor data into grower-facing insights and decisions.
 
-**AI · IoT · Firebase · ESP32**  
+`AI` `IoT` `Firebase` `ESP32`
+
 [Repository](https://github.com/jiahui-1101/SeedDown) · [▶ Live Prototype](https://seed-down.vercel.app)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌲 Walk Back Home
-**Personal Project · Creator & Developer** · Browser + Android
+**Personal Project · Creator & Developer**
 
-> *What if your diary was not something you read, but somewhere you could return to?*
+<a href="https://ms-walk-back-home.vercel.app"><img src="https://image.thum.io/get/width/1280/crop/720/noanimate/https://ms-walk-back-home.vercel.app" width="100%" alt="Walk Back Home browser game" /></a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meishuet16/ms-walk-back-home/main/docs/IMG_20260905_011203.jpg" width="760" alt="Walk Back Home gameplay" />
-</p>
+*What if your diary was not something you read, but somewhere you could return to?*
 
-A personal memory RPG that turns diary entries into explorable, authored memory chapters. Players walk through places that already happened, notice objects, people, music and echoes, trigger memory reenactments, leave reflections, and return to the present — without rewriting the past.
+A browser + Android personal memory RPG that turns diary entries into explorable authored chapters, built on a reusable TypeScript game/runtime system.
 
-Built as a reusable **TypeScript game/runtime system** with interactive scenes, character reenactments, environmental triggers, responsive portrait/landscape layouts, persistent present-tense spaces, internal authoring tools, and **Capacitor Android packaging with bundled offline assets**.
+`TypeScript` `Vite` `Capacitor` `Supabase`
 
-**TypeScript · Vite · Capacitor · Supabase · Custom 2D Runtime**  
-[Repository](https://github.com/meishuet16/ms-walk-back-home) · [▶ Play Live](https://ms-walk-back-home.vercel.app) · [📱 Android APK](https://github.com/meishuet16/ms-walk-back-home/releases/tag/v0.1.0-alpha)
+[Repository](https://github.com/meishuet16/ms-walk-back-home) · [▶ Play Live](https://ms-walk-back-home.vercel.app) · [📱 APK](https://github.com/meishuet16/ms-walk-back-home/releases/tag/v0.1.0-alpha)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🛡️ ShieldScan AI
-**Project 2030 Hackathon · Secure Digital Track** · AI Security
+**Project 2030 Hackathon · Secure Digital Track**
 
-[![ShieldScan AI pitch](https://img.youtube.com/vi/ghL32WbbNEw/maxresdefault.jpg)](https://youtu.be/ghL32WbbNEw)
+<a href="https://shieldscan-frontend.onrender.com"><img src="https://image.thum.io/get/width/1280/crop/720/noanimate/https://shieldscan-frontend.onrender.com" width="100%" alt="ShieldScan AI live application" /></a>
 
-A multimodal fraud-intelligence prototype for Malaysia. ShieldScan accepts suspicious URLs, text, or screenshots, streams its analysis process, grounds findings with retrieval, and generates explainable bilingual English / Bahasa Malaysia risk reports.
+Multimodal fraud intelligence for suspicious URLs, text, and screenshots with streamed, explainable bilingual risk reports.
 
-**Flutter Web · FastAPI · Gemini 2.5 Flash · Vertex AI Search / RAG**  
-[Repository](https://github.com/meishuet16/shieldscan) · [▶ Live Demo](https://shieldscan-frontend.onrender.com) · [▶ 5-Min Pitch](https://youtu.be/ghL32WbbNEw)
+`Flutter Web` `FastAPI` `Gemini 2.5 Flash` `Vertex AI RAG`
+
+[Repository](https://github.com/meishuet16/shieldscan) · [▶ Live Demo](https://shieldscan-frontend.onrender.com) · [▶ Pitch](https://youtu.be/ghL32WbbNEw)
+
+</td>
+</tr>
+</table>
 
 ---
 
