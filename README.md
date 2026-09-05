@@ -48,7 +48,7 @@ Smart-campus mobile platform for student safety, mobility, emergency support, an
 **🏅 2nd Smart Earth Hackathon Finalist**  
 **🏅 UTMxHackathon '26 Top 10 Finalist**
 
-<a href="https://seed-down.vercel.app"><img src="./assets/featured/seeddown-card.jpg" width="100%" alt="SeedDown 3D Farm Command Center" /></a>
+<a href="https://seed-down.vercel.app"><img src="./seeddown-card.png" width="100%" alt="SeedDown 3D Farm Command Center" /></a>
 
 AI + IoT vertical-farming platform turning live sensor data into grower-facing insights and decisions.
 
@@ -80,7 +80,7 @@ A browser + Android personal memory RPG that turns diary entries into explorable
 ### 🛡️ ShieldScan AI
 **Project 2030 Hackathon · Secure Digital Track**
 
-<a href="https://shieldscan-frontend.onrender.com"><img src="./assets/featured/shieldscan-card.jpg" width="100%" alt="ShieldScan AI dashboard" /></a>
+<a href="https://shieldscan-frontend.onrender.com"><img src="./shieldscan-card.jpg" width="100%" alt="ShieldScan AI dashboard" /></a>
 
 Multimodal fraud intelligence for suspicious URLs, text, and screenshots with streamed, explainable bilingual risk reports.
 
