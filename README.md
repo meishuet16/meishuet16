@@ -1,5 +1,6 @@
-# 💫 About Me:
-<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400px">
+<img src="./banner.png" width="100%" alt="Lee Mei Shuet profile banner" />
+
+### 💫 About Me:
 
 👋 Hi, I'm **Lee Mei Shuet** — a Year 3 Software Engineering student at **Universiti Teknologi Malaysia**, hackathon builder, and creator of **Walk Back Home**.
 
@@ -7,6 +8,8 @@ I like building things that are meant to be **used, explored, or played** — fr
 
 Great code, to me, is a lot like a good badminton match: strategy, agility, and clean execution. 🏸  
 When I'm not building apps or experimenting with AI, you'll probably find me cycling around UTM or admiring 16-bit retro pixel art. 👾
+
+<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400px">
 
 ### ✨ Highlights
 
@@ -52,6 +55,7 @@ A browser + Android personal memory RPG that turns diary entries into explorable
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
