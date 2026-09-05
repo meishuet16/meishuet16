@@ -1,62 +1,111 @@
 # 💫 About Me:
 <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400px">
 
-👋 Hi, I'm **Lee Mei Shuet** — a Year 2 Software Engineering student at **Universiti Teknologi Malaysia** and **CodeNection 2025 Champion**.
+👋 Hi, I'm **Lee Mei Shuet** — a Year 3 Software Engineering student at **Universiti Teknologi Malaysia**, hackathon builder, and creator of **Walk Back Home**.
 
-I'm passionate about building **mobile, AI, and full-stack solutions** that solve real-world socioeconomic problems and support underserved communities.
+I like building things that are meant to be **used, explored, or played** — from AI-powered mobile products and IoT systems to an indie memory RPG built from my own diary.
 
 Great code, to me, is a lot like a good badminton match: strategy, agility, and clean execution. 🏸  
 When I'm not building apps or experimenting with AI, you'll probably find me cycling around UTM or admiring 16-bit retro pixel art. 👾
 
 ### ✨ Highlights
 
-- 🏆 **Hackathon Builder:** CodeNection 2025 Champion with experience building under intense 48-hour pressure.
-- 🏗️ **Solid Foundations:** Comfortable across SDLC, OOP, Agile workflows, and full-stack/mobile architecture.
-- 🌱 **Current Focus:** Exploring AI-powered mobile experiences that bridge digital gaps.
+- 🏆 **CodeNection 2025 Champion** — shipped a smart-campus mobile product under hackathon pressure.
+- 🌱 **Award-winning AI + IoT builder** — SeedDown received the **DIGITEX 2026 Netizen's Choice Award**.
+- 🌲 **Indie project creator** — building **Walk Back Home**, a browser + Android personal memory RPG with authored interactive chapters.
+- 🧠 **Product-minded engineer** — comfortable moving between mobile, full-stack, AI, IoT, product design, and rapid prototyping.
 
 ### 🛠️ Technical Toolbox
 
-- **Languages:** Dart, Java, C++, HTML, CSS, JavaScript, SQL
-- **Frameworks & Tools:** Flutter, Firebase, Vue, Node.js, Express, MySQL, Git
-- **Specialization:** Generative AI, Gemini / Vertex AI, Mobile App Architecture, SDLC, OOP
+- **Languages:** Dart, Java, C++, JavaScript, TypeScript, Python, SQL, HTML, CSS
+- **Frameworks & Tools:** Flutter, Vue, React, Vite, Node.js, Express, FastAPI, Firebase, MySQL, Supabase, Capacitor, Git
+- **AI / Cloud / IoT:** Gemini, Vertex AI, Google Cloud, ESP32
 
-👇 *Check out my featured repositories below for my latest AI integrations, mobile apps, and full-stack projects!*
+---
 
-### 📌 Featured Competition Projects
+## ✨ Featured Work
 
-| Project | Event / Recognition | Role | Verified contributions |
-|---|---|---|---|
-| [**UTMBright / JustBrightForUTM**](https://github.com/jiahui-1101/CodeNection) | CodeNection 2025 **Champion** | Mobile App Developer · AI/Safety Feature Contributor | Contributed to the smart campus safety app across student-facing safety flows, community mobility ideas, SOS/emergency experience, AI companion direction, and final hackathon delivery. |
-| [**SeedDown**](https://github.com/jiahui-1101/SeedDown) | UTMxHackathon'26 · DIGITEX 2026 **Netizen's Choice Award** | Full-Stack & AI/IoT Contributor | Contributed to the AI + IoT vertical farming platform, including dashboard experience, Firebase-backed data flow, AI threshold/advisor features, documentation, and judge-facing product polish. |
-| [**ShieldScan AI**](https://github.com/meishuet16/shieldscan) | Project 2030 Hackathon · Secure Digital Track | AI Security Builder · Repository Owner | Built the fraud-intelligence prototype with multimodal scan inputs, Gemini-powered analysis, bilingual reporting, FastAPI/Flutter Web direction, and Cloud Run deployment materials. |
-| [**PAYUNG**](https://github.com/meishuet16/GodamLah2.0) | GodamLah2.0 | Product Concept & Disaster-Tech Contributor | Contributed to the offline-first disaster-response concept around identity, health profiles, victim/rescuer workflows, and pitch direction. |
-| [**Warung Wise**](https://github.com/meishuet16/Warung-Wise) | KitaHack 2026 | AI FinTech Mobile Contributor | Built and documented an AI-powered micro-hawker finance solution covering receipt understanding, voice ledger, profit intelligence, loan simulation, and P&L reporting ideas. |
-| [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | SDG XI Hackathon | AI Housing Assistant Contributor | Contributed to the sustainable housing assistant concept, commute-first recommendation flow, SDG 11 framing, AI insight experience, and project documentation. |
-| [**NextTalent**](https://github.com/jiahui-1101/Talentbank_Tech_Hackathon) | Talentbank Tech Hackathon | UI / Prototype Contributor | Contributed UI updates and prototype polish for a talent-tech hackathon project focused on retention signals, dashboards, and candidate/employee experience flows. |
+### 🏆 UTMBright / JustBrightForUTM
+**CodeNection 2025 Champion** · Smart Campus · Mobile · AI
+
+A smart-campus mobile platform built around student safety, community mobility, emergency support, and a more connected university experience. I contributed across student-facing safety flows, SOS/emergency experience, AI companion direction, and final hackathon delivery.
+
+**Flutter · Firebase · AI**  
+[Repository](https://github.com/jiahui-1101/CodeNection)
+
+---
+
+### 🌱 SeedDown
+**UTMxHackathon'26 · DIGITEX 2026 Netizen's Choice Award** · AI + IoT
+
+An AI + IoT vertical-farming platform that turns live sensor data into grower-facing insights and decisions. I contributed to the dashboard experience, Firebase-backed data flow, intelligent threshold/advisor features, documentation, and judge-facing product polish.
+
+**AI · IoT · Firebase · ESP32**  
+[Repository](https://github.com/jiahui-1101/SeedDown)
+
+---
+
+### 🌲 Walk Back Home
+**Personal Project · Creator & Developer** · Browser + Android
+
+> *What if your diary was not something you read, but somewhere you could return to?*
+
+A personal memory RPG that turns diary entries into explorable, authored memory chapters. Players walk through places that already happened, notice objects, people, music and echoes, trigger memory reenactments, leave reflections, and return to the present — without rewriting the past.
+
+Built as a reusable **TypeScript game/runtime system** with interactive scenes, character reenactments, environmental triggers, responsive portrait/landscape layouts, persistent present-tense spaces, internal authoring tools, and **Capacitor Android packaging with bundled offline assets**.
+
+**TypeScript · Vite · Capacitor · Supabase · Custom 2D Runtime**  
+[Repository](https://github.com/meishuet16/ms-walk-back-home) · [▶ Play Live](https://ms-walk-back-home.vercel.app)
+
+---
+
+### 🛡️ ShieldScan AI
+**Project 2030 Hackathon · Secure Digital Track** · AI Security
+
+A multimodal fraud-intelligence prototype for Malaysia. ShieldScan accepts suspicious URLs, text, or screenshots, streams its analysis process, grounds findings with retrieval, and generates explainable bilingual English / Bahasa Malaysia risk reports.
+
+**Flutter Web · FastAPI · Gemini 2.5 Flash · Vertex AI Search / RAG**  
+[Repository](https://github.com/meishuet16/shieldscan) · [▶ Live Demo](https://shieldscan-frontend.onrender.com) · [Pitch](https://youtu.be/ghL32WbbNEw)
+
+---
+
+## 🗂️ More Projects
+
+### 🏁 Competition & Product Builds
+
+| Project | Event / Context | What I worked on |
+|---|---|---|
+| [**Warung Wise**](https://github.com/meishuet16/Warung-Wise) | KitaHack 2026 | AI bookkeeping and financial intelligence for Malaysian micro-hawkers: receipt understanding, voice ledger, profit intelligence, loan simulation, and P&L reporting. |
+| [**PAYUNG**](https://github.com/meishuet16/GodamLah2.0) | GodamLah2.0 | Offline-first disaster-response concept around identity, health profiles, victim/rescuer workflows, and pitch direction. |
+| [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | SDG XI Hackathon | Sustainable housing assistant with commute-first recommendations, SDG 11 framing, and AI-assisted insights. |
+| [**NextTalent**](https://github.com/jiahui-1101/Talentbank_Tech_Hackathon) | Talentbank Tech Hackathon | UI and prototype work for a talent-tech product focused on retention signals and employee/candidate experience. |
 
 ### 🤝 Collaborative & Academic Projects
 
-| Project | Role | Verified contributions |
-|---|---|---|
-| [**Tree Mapping Data System**](https://github.com/jiahui-1101/Tree_Mapping_Data_System) | Application Development Team Contributor | Contributed to the Johor Botanical Garden full-stack prototype covering role-based workflows, tree inventory, ranger field operations, visitor education, QR-based access, and map/visualization features. |
-| [**EventOra**](https://github.com/Christting/EventOra) | Full-Stack Event Platform Contributor | Contributed to a campus event management and ticketing platform covering event discovery, registration/checkout flows, ticket wallet, QR check-in, organiser dashboards, feedback, notifications, and deployment-ready Vue + Slim + MySQL integration. |
-| [**Event Registration & Check-In System**](https://github.com/jiahui-1101/Event-Registration-and-Check-In-System) | C++ Developer · Data Structures Contributor | Built and integrated console-based event registration/check-in workflows using queues and singly linked lists, including participant registration, waiting list logic, organizer check-in, admin tasks, searching/sorting, and file persistence. |
+| Project | What I worked on |
+|---|---|
+| [**Tree Mapping Data System**](https://github.com/jiahui-1101/Tree_Mapping_Data_System) | Johor Botanical Garden full-stack prototype covering role-based workflows, tree inventory, ranger field operations, visitor education, QR access, and map/visualization features. |
+| [**EventOra**](https://github.com/Christting/EventOra) | Campus event management and ticketing platform covering registration, ticket wallet, QR check-in, organiser dashboards, feedback, notifications, and Vue + Slim + MySQL integration. |
+| [**Event Registration & Check-In System**](https://github.com/jiahui-1101/Event-Registration-and-Check-In-System) | C++ event registration/check-in workflows using queues and singly linked lists, including waiting-list logic, search/sort, admin flows, and file persistence. |
 
-### 💻 Individual Projects & Coursework
+<details>
+<summary><b>💻 Coursework & smaller builds</b></summary>
+<br>
 
-| Project | Role | Verified contributions |
-|---|---|---|
-| [**Employee Directory**](https://github.com/meishuet16/Employee-Directory-with-Vue-3-Axios-Express-and-MySQL) | Full-Stack Developer | Built the Vue 3 interface, Axios service layer, Express API, MySQL schema, prepared queries, CRUD/search/sort flows, validation notes, and responsive layout. |
-| [**Student Records Manager**](https://github.com/meishuet16/Student-Records-Manager-with-Vue-3-Axios-Express-and-MySQL) | Full-Stack Developer | Built a database-backed student records management system using Vue 3, Axios, Express, and MySQL. |
-| [**Real-Time Data Dashboard**](https://github.com/meishuet16/lab3_-Real-Time-Data-Dashboard-with-Fetch-API-jQuery-) | Frontend Developer | Practiced Fetch API, jQuery DOM updates, dashboard rendering, and browser-side data interaction. |
-| [**Kanban Style Task Manager**](https://github.com/meishuet16/Lab2-Kanban-Style-Task-Manager) | Frontend Developer | Built a Kanban-style task board to practice task state, movement, layout, and interactive UI behavior. |
-| [**QuickNote Dashboard**](https://github.com/meishuet16/QuickNote_dashboard-BOM-DOM-lab-activity-) | Frontend Developer | Practiced BOM/DOM manipulation through a note dashboard activity. |
-| [**HTML Lab Exercise 1**](https://github.com/meishuet16/html-lab-exercise1) | Web Developer | Completed foundational HTML/CSS coursework with structured pages and styling practice. |
-| [**GitHub Profile**](https://github.com/meishuet16/meishuet16) | Profile Maintainer | Maintains this GitHub profile README, project highlights, badges, stats, and portfolio presentation. |
+| Project | Focus |
+|---|---|
+| [**Employee Directory**](https://github.com/meishuet16/Employee-Directory-with-Vue-3-Axios-Express-and-MySQL) | Vue 3 + Axios + Express + MySQL CRUD/search/sort application. |
+| [**Student Records Manager**](https://github.com/meishuet16/Student-Records-Manager-with-Vue-3-Axios-Express-and-MySQL) | Database-backed records manager using Vue 3, Axios, Express, and MySQL. |
+| [**Real-Time Data Dashboard**](https://github.com/meishuet16/lab3_-Real-Time-Data-Dashboard-with-Fetch-API-jQuery-) | Fetch API, jQuery, DOM updates, and browser-side data interaction. |
+| [**Kanban Style Task Manager**](https://github.com/meishuet16/Lab2-Kanban-Style-Task-Manager) | Interactive task state, movement, and frontend layout. |
+| [**QuickNote Dashboard**](https://github.com/meishuet16/QuickNote_dashboard-BOM-DOM-lab-activity-) | BOM/DOM manipulation and note-dashboard interactions. |
+| [**HTML Lab Exercise 1**](https://github.com/meishuet16/html-lab-exercise1) | Foundational HTML/CSS coursework. |
+
+</details>
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meishuetlee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meishuet16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meishuetlee8@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meishuetlee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meishuet16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meishuetlee8@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -95,6 +144,3 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=meishuet16&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
-
-
-
