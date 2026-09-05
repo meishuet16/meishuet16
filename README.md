@@ -11,7 +11,7 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 ### ✨ Highlights
 
 - 🏆 **CodeNection 2025 Champion** — shipped a smart-campus mobile product under hackathon pressure.
-- 🌱 **Award-winning AI + IoT builder** — SeedDown received the **DIGITEX 2026 Netizen's Choice Award**, was a **2nd Smart Earth Hackathon Finalist**, and a **UTMxHackathon '26 Top 10 Finalist**.
+- 🌱 **Award-winning AI + IoT builder** — SeedDown received the **DIGITEX 2026 Netizen's Choice Award**, was a **2nd Smart Earth Hackathon Finalist**, and an **UTMxHackathon '26 Top 10 Finalist**.
 - 🌲 **Indie project creator** — built **Walk Back Home**, a browser + Android personal memory RPG with authored interactive chapters.
 - 🧠 **Product-minded engineer** — comfortable moving between mobile, full-stack, AI, IoT, product design, and rapid prototyping.
 
@@ -30,9 +30,9 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 <td width="50%" valign="top">
 
 ### 🏆 UTMBright
-**CodeNection 2025 Champion**
+**🏆 CodeNection 2025 Champion**
 
-<p align="center"><img src="https://raw.githubusercontent.com/jiahui-1101/CodeNection/main/assets/images/utmbright%20logoo.png" width="170" alt="UTMBright logo" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/jiahui-1101/CodeNection/main/assets/images/utmbright%20logoo.png" width="180" alt="UTMBright logo" /></p>
 
 Smart-campus mobile platform for student safety, mobility, emergency support, and campus life.
 
@@ -44,11 +44,11 @@ Smart-campus mobile platform for student safety, mobility, emergency support, an
 <td width="50%" valign="top">
 
 ### 🌱 SeedDown
-**DIGITEX 2026 Netizen's Choice Award**  
-**2nd Smart Earth Hackathon Finalist**  
-**UTMxHackathon '26 Top 10 Finalist**
+**🏆 DIGITEX 2026 Netizen's Choice Award**  
+**🏅 2nd Smart Earth Hackathon Finalist**  
+**🏅 UTMxHackathon '26 Top 10 Finalist**
 
-<!-- Approved SeedDown 16:9 dashboard image will replace this preview once stored in the profile repo. -->
+<!-- Approved card image: user-provided SeedDown 3D Farm Command Center screenshot (#6). -->
 
 AI + IoT vertical-farming platform turning live sensor data into grower-facing insights and decisions.
 
@@ -64,7 +64,7 @@ AI + IoT vertical-farming platform turning live sensor data into grower-facing i
 ### 🌲 Walk Back Home
 **Personal Project · Creator & Developer**
 
-<!-- Approved Walk Back Home title-screen image will replace this preview once stored in the profile repo. -->
+<!-- Approved card image: user-provided Walk Back Home title screen screenshot (#1). -->
 
 *What if your diary was not something you read, but somewhere you could return to?*
 
@@ -80,7 +80,7 @@ A browser + Android personal memory RPG that turns diary entries into explorable
 ### 🛡️ ShieldScan AI
 **Project 2030 Hackathon · Secure Digital Track**
 
-<!-- Approved ShieldScan dashboard image will replace this preview once stored in the profile repo. -->
+<!-- Approved card image: user-provided ShieldScan AI dashboard screenshot (#5). -->
 
 Multimodal fraud intelligence for suspicious URLs, text, and screenshots with streamed, explainable bilingual risk reports.
 
@@ -136,19 +136,19 @@ Multimodal fraud intelligence for suspicious URLs, text, and screenshots with st
 
 **Languages**
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Mobile, Frontend & UI**
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Axios](https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF.svg?style=for-the-badge&logo=capacitor&logoColor=white)
 
 **Backend, Database & Cloud**
 
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **AI, IoT & Tools**
 
-![Gemini](https://img.shields.io/badge/gemini-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
 
