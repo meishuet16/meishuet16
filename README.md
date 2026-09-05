@@ -15,12 +15,6 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 - 🌲 **Indie project creator** — built **Walk Back Home**, a browser + Android personal memory RPG with authored interactive chapters.
 - 🧠 **Product-minded engineer** — comfortable moving between mobile, full-stack, AI, IoT, product design, workflow automation, and rapid prototyping.
 
-### 🛠️ Technical Toolbox
-
-- **Languages:** Dart, Java, C++, JavaScript, TypeScript, Python, SQL, HTML, CSS
-- **Frameworks & Tools:** Flutter, Vue, React, Vite, Node.js, Express, FastAPI, Streamlit, Firebase, MySQL, Supabase, Capacitor, Git
-- **AI / Cloud / IoT:** Gemini, Vertex AI, Snowflake, Google Cloud, ESP32
-
 ---
 
 ## ✨ Featured Work
