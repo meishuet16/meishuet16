@@ -12,7 +12,7 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 
 - 🏆 **CodeNection 2025 Champion** — shipped a smart-campus mobile product under hackathon pressure.
 - 🌱 **Award-winning AI + IoT builder** — SeedDown received the **DIGITEX 2026 Netizen's Choice Award**.
-- 🌲 **Indie project creator** — building **Walk Back Home**, a browser + Android personal memory RPG with authored interactive chapters.
+- 🌲 **Indie project creator** — built **Walk Back Home**, a browser + Android personal memory RPG with authored interactive chapters.
 - 🧠 **Product-minded engineer** — comfortable moving between mobile, full-stack, AI, IoT, product design, and rapid prototyping.
 
 ### 🛠️ Technical Toolbox
@@ -28,20 +28,28 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 ### 🏆 UTMBright / JustBrightForUTM
 **CodeNection 2025 Champion** · Smart Campus · Mobile · AI
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jiahui-1101/CodeNection/main/assets/images/utmbright%20logoo.png" width="150" alt="UTMBright logo" />
+</p>
+
 A smart-campus mobile platform built around student safety, community mobility, emergency support, and a more connected university experience. I contributed across student-facing safety flows, SOS/emergency experience, AI companion direction, and final hackathon delivery.
 
 **Flutter · Firebase · AI**  
-[Repository](https://github.com/jiahui-1101/CodeNection)
+[Repository](https://github.com/jiahui-1101/CodeNection) · [📱 Download APK](https://github.com/jiahui-1101/CodeNection/releases/tag/UTMBright-v2.0)
 
 ---
 
 ### 🌱 SeedDown
 **UTMxHackathon'26 · DIGITEX 2026 Netizen's Choice Award** · AI + IoT
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jiahui-1101/SeedDown/main/docs/posters/Poster3_Software%20Features%20%26%20User%20Experience.png" width="760" alt="SeedDown software features and user experience" />
+</p>
+
 An AI + IoT vertical-farming platform that turns live sensor data into grower-facing insights and decisions. I contributed to the dashboard experience, Firebase-backed data flow, intelligent threshold/advisor features, documentation, and judge-facing product polish.
 
 **AI · IoT · Firebase · ESP32**  
-[Repository](https://github.com/jiahui-1101/SeedDown)
+[Repository](https://github.com/jiahui-1101/SeedDown) · [▶ Live Prototype](https://seed-down.vercel.app)
 
 ---
 
@@ -50,22 +58,28 @@ An AI + IoT vertical-farming platform that turns live sensor data into grower-fa
 
 > *What if your diary was not something you read, but somewhere you could return to?*
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meishuet16/ms-walk-back-home/main/docs/IMG_20260905_011203.jpg" width="760" alt="Walk Back Home gameplay" />
+</p>
+
 A personal memory RPG that turns diary entries into explorable, authored memory chapters. Players walk through places that already happened, notice objects, people, music and echoes, trigger memory reenactments, leave reflections, and return to the present — without rewriting the past.
 
 Built as a reusable **TypeScript game/runtime system** with interactive scenes, character reenactments, environmental triggers, responsive portrait/landscape layouts, persistent present-tense spaces, internal authoring tools, and **Capacitor Android packaging with bundled offline assets**.
 
 **TypeScript · Vite · Capacitor · Supabase · Custom 2D Runtime**  
-[Repository](https://github.com/meishuet16/ms-walk-back-home) · [▶ Play Live](https://ms-walk-back-home.vercel.app)
+[Repository](https://github.com/meishuet16/ms-walk-back-home) · [▶ Play Live](https://ms-walk-back-home.vercel.app) · [📱 Android APK](https://github.com/meishuet16/ms-walk-back-home/releases/tag/v0.1.0-alpha)
 
 ---
 
 ### 🛡️ ShieldScan AI
 **Project 2030 Hackathon · Secure Digital Track** · AI Security
 
+[![ShieldScan AI pitch](https://img.youtube.com/vi/ghL32WbbNEw/maxresdefault.jpg)](https://youtu.be/ghL32WbbNEw)
+
 A multimodal fraud-intelligence prototype for Malaysia. ShieldScan accepts suspicious URLs, text, or screenshots, streams its analysis process, grounds findings with retrieval, and generates explainable bilingual English / Bahasa Malaysia risk reports.
 
 **Flutter Web · FastAPI · Gemini 2.5 Flash · Vertex AI Search / RAG**  
-[Repository](https://github.com/meishuet16/shieldscan) · [▶ Live Demo](https://shieldscan-frontend.onrender.com) · [Pitch](https://youtu.be/ghL32WbbNEw)
+[Repository](https://github.com/meishuet16/shieldscan) · [▶ Live Demo](https://shieldscan-frontend.onrender.com) · [▶ 5-Min Pitch](https://youtu.be/ghL32WbbNEw)
 
 ---
 
