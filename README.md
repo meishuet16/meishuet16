@@ -6,6 +6,8 @@
 
 I like building things that are meant to be **used, explored, or played** — from AI-powered mobile products and IoT systems to an indie memory RPG built from my own diary.
 
+🏆 **Hackathon achievements:** CodeNection 2025 Champion (UTMBright) · Averis x Monash Hackathon 2026 Champion (HolyShip) · DIGITEX 2026 Netizen's Choice Award (SeedDown).
+
 Great code, to me, is a lot like a good badminton match: strategy, agility, and clean execution. 🏸  
 When I'm not building apps or experimenting with AI, you'll probably find me cycling around UTM or admiring 16-bit retro pixel art. 👾
 
@@ -14,6 +16,7 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 ### ✨ Highlights
 
 - 🏆 **CodeNection 2025 Champion** — shipped a smart-campus mobile product under hackathon pressure.
+- 🏆 **Averis x Monash Hackathon 2026 Champion** — built HolyShip, an auditable SI–BL shipping document verification workflow.
 - 🌱 **Award-winning AI + IoT builder** — SeedDown received the **DIGITEX 2026 Netizen's Choice Award**, was a **2nd Smart Earth Hackathon Finalist**, and an **UTMxHackathon '26 Top 10 Finalist**.
 - 🌲 **Indie project creator** — built **Walk Back Home**, a browser + Android personal memory RPG with authored interactive chapters.
 - 🧠 **Product-minded engineer** — comfortable moving between mobile, full-stack, AI, IoT, product design, workflow automation, and rapid prototyping.
@@ -40,18 +43,16 @@ Smart-campus mobile platform for student safety, mobility, emergency support, an
 </td>
 <td width="50%" valign="top">
 
-### 🌲 Walk Back Home
-**Personal Project · Creator & Developer**
+### 🚢 HolyShip
+**🏆 Averis x Monash Hackathon 2026 Champion · Team Project**
 
-<p align="center"><a href="https://ms-walk-back-home.vercel.app"><img src="https://raw.githubusercontent.com/meishuet16/ms-walk-back-home/main/android/app/src/main/ic_launcher-playstore.png" width="190" alt="Walk Back Home app icon" /></a></p>
+<a href="https://holyship.onrender.com/"><img src="https://raw.githubusercontent.com/mavisbong41/HolyShip/main/frontend/public/holyship-logo.png" width="180" alt="HolyShip logo" /></a>
 
-*What if your diary was not something you read, but somewhere you could return to?*
+Shipping email and SI–BL document verification platform with seven-field extraction, layered discrepancy checks, human-approved review plans, and audit trails. Its published deterministic evaluation processed 520/520 public-dataset emails without technical failures.
 
-A browser + Android personal memory RPG that turns diary entries into explorable authored chapters, built on a reusable TypeScript game/runtime system.
+`Python` `FastAPI` `PostgreSQL` `React` `Microsoft Graph`
 
-`TypeScript` `Vite` `Capacitor` `Supabase`
-
-[Repository](https://github.com/meishuet16/ms-walk-back-home) · [▶ Play Live](https://ms-walk-back-home.vercel.app) · [📱 APK](https://github.com/meishuet16/ms-walk-back-home/releases/tag/v0.1.0-alpha)
+[Repository](https://github.com/mavisbong41/HolyShip) · [▶ Live Dashboard](https://holyship.onrender.com/) · [▶ Demo](https://youtu.be/mnfbrDJyGaQ)
 
 </td>
 </tr>
@@ -71,6 +72,39 @@ AI + IoT vertical-farming platform turning live sensor data into grower-facing i
 `AI` `IoT` `Firebase` `ESP32`
 
 [Repository](https://github.com/jiahui-1101/SeedDown) · [▶ Live Prototype](https://seed-down.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍍 LaiCai
+**Dormathon 2026 · Predictive Model Track · Team Project**
+
+<a href="https://lai-cai-pitch.vercel.app"><img src="https://raw.githubusercontent.com/meishuet16/LaiCai/main/pitch/assets/screenshots/system-overview.png" width="100%" alt="LaiCai retention dashboard" /></a>
+
+Customer retention intelligence prototype combining 7/14/30-day churn prediction, personalized activity baselines, reliability-aware routing, MRR-weighted prioritization, and human-controlled decisions. Evaluation uses synthetic data; no real-world retention uplift is claimed.
+
+`Python` `LightGBM` `React` `TypeScript` `PostgreSQL`
+
+[Repository](https://github.com/meishuet16/LaiCai) · [▶ Pitch](https://lai-cai-pitch.vercel.app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌲 Walk Back Home
+**Personal Project · Creator & Developer**
+
+<p align="center"><a href="https://ms-walk-back-home.vercel.app"><img src="https://raw.githubusercontent.com/meishuet16/ms-walk-back-home/main/android/app/src/main/ic_launcher-playstore.png" width="190" alt="Walk Back Home app icon" /></a></p>
+
+*What if your diary was not something you read, but somewhere you could return to?*
+
+A browser + Android personal memory RPG that turns diary entries into explorable authored chapters, built on a reusable TypeScript game/runtime system.
+
+`TypeScript` `Vite` `Capacitor` `Supabase`
+
+[Repository](https://github.com/meishuet16/ms-walk-back-home) · [▶ Play Live](https://ms-walk-back-home.vercel.app) · [📱 APK](https://github.com/meishuet16/ms-walk-back-home/releases/tag/v0.1.0-alpha)
 
 </td>
 <td width="50%" valign="top">
@@ -98,6 +132,7 @@ Multimodal fraud intelligence for suspicious URLs, text, and screenshots with st
 
 | Project | Event / Context | What I worked on |
 |---|---|---|
+| [**CocoCrunch**](https://github.com/meishuet16/CocoCrunch_GO) | CodeNection 2026 · Travel Planner Track | Collaborative travel-planning prototype with group preference alignment, transparent voting, budgets, disruption recovery, and interactive memories. [Live App](https://coco-crunch-go.vercel.app/) |
 | [**Warung Wise**](https://github.com/meishuet16/Warung-Wise) | KitaHack 2026 | AI bookkeeping and financial intelligence for Malaysian micro-hawkers: receipt understanding, voice ledger, profit intelligence, loan simulation, and P&L reporting. |
 | [**PAYUNG**](https://github.com/meishuet16/GodamLah2.0) | GodamLah2.0 | Offline-first disaster-response concept around identity, health profiles, victim/rescuer workflows, and pitch direction. |
 | [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | SDG XI Hackathon | Sustainable housing assistant with commute-first recommendations, SDG 11 framing, and AI-assisted insights. |
