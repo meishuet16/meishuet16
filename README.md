@@ -6,6 +6,8 @@
 
 I like building things that are meant to be **used, explored, or played** — from AI-powered mobile products and IoT systems to an indie memory RPG built from my own diary.
 
+🏆 **Hackathon achievements:** CodeNection 2025 Champion (UTMBright) · Averis x Monash Hackathon 2026 Champion (HolyShip) · DIGITEX 2026 Netizen's Choice Award (SeedDown).
+
 Great code, to me, is a lot like a good badminton match: strategy, agility, and clean execution. 🏸  
 When I'm not building apps or experimenting with AI, you'll probably find me cycling around UTM or admiring 16-bit retro pixel art. 👾
 
@@ -14,6 +16,7 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 ### ✨ Highlights
 
 - 🏆 **CodeNection 2025 Champion** — shipped a smart-campus mobile product under hackathon pressure.
+- 🏆 **Averis x Monash Hackathon 2026 Champion** — built HolyShip, an auditable SI–BL shipping document verification workflow.
 - 🌱 **Award-winning AI + IoT builder** — SeedDown received the **DIGITEX 2026 Netizen's Choice Award**, was a **2nd Smart Earth Hackathon Finalist**, and an **UTMxHackathon '26 Top 10 Finalist**.
 - 🌲 **Indie project creator** — built **Walk Back Home**, a browser + Android personal memory RPG with authored interactive chapters.
 - 🧠 **Product-minded engineer** — comfortable moving between mobile, full-stack, AI, IoT, product design, workflow automation, and rapid prototyping.
@@ -23,6 +26,70 @@ When I'm not building apps or experimenting with AI, you'll probably find me cyc
 ## ✨ Featured Work
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 UTMBright
+**🏆 CodeNection 2025 Champion**
+
+<p align="center"><img src="https://raw.githubusercontent.com/jiahui-1101/CodeNection/main/assets/images/utmbright%20logoo.png" width="180" alt="UTMBright logo" /></p>
+
+Smart-campus mobile platform for student safety, mobility, emergency support, and campus life.
+
+`Flutter` `Firebase` `AI`
+
+[Repository](https://github.com/jiahui-1101/CodeNection) · [▶ Demo](https://youtu.be/3rg5cUewwSQ) · [📱 APK](https://github.com/jiahui-1101/CodeNection/releases/tag/UTMBright-v2.0)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚢 HolyShip
+**🏆 Averis x Monash Hackathon 2026 Champion · Team Project**
+
+<a href="https://holyship.onrender.com/"><img src="https://raw.githubusercontent.com/mavisbong41/HolyShip/main/frontend/public/holyship-logo.png" width="180" alt="HolyShip logo" /></a>
+
+Shipping email and SI–BL document verification platform with seven-field extraction, layered discrepancy checks, human-approved review plans, and audit trails. Its published deterministic evaluation processed 520/520 public-dataset emails without technical failures.
+
+`Python` `FastAPI` `PostgreSQL` `React` `Microsoft Graph`
+
+[Repository](https://github.com/mavisbong41/HolyShip) · [▶ Live Dashboard](https://holyship.onrender.com/) · [▶ Demo](https://youtu.be/mnfbrDJyGaQ)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 SeedDown
+**🏆 DIGITEX 2026 Netizen's Choice Award**  
+**🏅 2nd Smart Earth Hackathon Finalist**  
+**🏅 UTMxHackathon '26 Top 10 Finalist**
+
+<a href="https://seed-down.vercel.app"><img src="./seeddown-card.png" width="100%" alt="SeedDown 3D Farm Command Center" /></a>
+
+AI + IoT vertical-farming platform turning live sensor data into grower-facing insights and decisions.
+
+`AI` `IoT` `Firebase` `ESP32`
+
+[Repository](https://github.com/jiahui-1101/SeedDown) · [▶ Live Prototype](https://seed-down.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍍 LaiCai
+**Dormathon 2026 · Predictive Model Track · Team Project**
+
+<a href="https://lai-cai-pitch.vercel.app"><img src="https://raw.githubusercontent.com/meishuet16/LaiCai/main/pitch/assets/screenshots/system-overview.png" width="100%" alt="LaiCai retention dashboard" /></a>
+
+Customer retention intelligence prototype combining 7/14/30-day churn prediction, personalized activity baselines, reliability-aware routing, MRR-weighted prioritization, and human-controlled decisions. Evaluation uses synthetic data; no real-world retention uplift is claimed.
+
+`Python` `LightGBM` `React` `TypeScript` `PostgreSQL`
+
+[Repository](https://github.com/meishuet16/LaiCai) · [▶ Pitch](https://lai-cai-pitch.vercel.app)
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -54,9 +121,6 @@ A browser + Android personal memory RPG that turns diary entries into explorable
 [Repository](https://github.com/meishuet16/ms-walk-back-home) · [▶ Play Live](https://ms-walk-back-home.vercel.app) · [📱 APK](https://github.com/meishuet16/ms-walk-back-home/releases/tag/v0.1.0-alpha)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🌱 SeedDown
@@ -88,6 +152,7 @@ Multimodal fraud intelligence for suspicious URLs, text, and screenshots with st
 
 </td>
 </tr>
+
 </table>
 
 ---
@@ -96,6 +161,7 @@ Multimodal fraud intelligence for suspicious URLs, text, and screenshots with st
 
 ### 🏁 Competition & Product Builds
 
+| [**CocoCrunch**](https://github.com/meishuet16/CocoCrunch_GO) | CodeNection 2026 · Travel Planner Track | Collaborative travel-planning prototype with group preference alignment, transparent voting, budgets, disruption recovery, and interactive memories. [Live App](https://coco-crunch-go.vercel.app/) |
 | Project | Event / Context | What I worked on |
 |---|---|---|
 | [**Warung Wise**](https://github.com/meishuet16/Warung-Wise) | KitaHack 2026 | AI bookkeeping and financial intelligence for Malaysian micro-hawkers: receipt understanding, voice ledger, profit intelligence, loan simulation, and P&L reporting. |
