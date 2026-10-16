@@ -93,20 +93,6 @@ Customer retention intelligence prototype combining 7/14/30-day churn prediction
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 UTMBright
-**🏆 CodeNection 2025 Champion**
-
-<p align="center"><img src="https://raw.githubusercontent.com/jiahui-1101/CodeNection/main/assets/images/utmbright%20logoo.png" width="180" alt="UTMBright logo" /></p>
-
-Smart-campus mobile platform for student safety, mobility, emergency support, and campus life.
-
-`Flutter` `Firebase` `AI`
-
-[Repository](https://github.com/jiahui-1101/CodeNection) · [▶ Demo](https://youtu.be/3rg5cUewwSQ) · [📱 APK](https://github.com/jiahui-1101/CodeNection/releases/tag/UTMBright-v2.0)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌲 Walk Back Home
 **Personal Project · Creator & Developer**
 
@@ -119,22 +105,6 @@ A browser + Android personal memory RPG that turns diary entries into explorable
 `TypeScript` `Vite` `Capacitor` `Supabase`
 
 [Repository](https://github.com/meishuet16/ms-walk-back-home) · [▶ Play Live](https://ms-walk-back-home.vercel.app) · [📱 APK](https://github.com/meishuet16/ms-walk-back-home/releases/tag/v0.1.0-alpha)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 SeedDown
-**🏆 DIGITEX 2026 Netizen's Choice Award**  
-**🏅 2nd Smart Earth Hackathon Finalist**  
-**🏅 UTMxHackathon '26 Top 10 Finalist**
-
-<a href="https://seed-down.vercel.app"><img src="./seeddown-card.png" width="100%" alt="SeedDown 3D Farm Command Center" /></a>
-
-AI + IoT vertical-farming platform turning live sensor data into grower-facing insights and decisions.
-
-`AI` `IoT` `Firebase` `ESP32`
-
-[Repository](https://github.com/jiahui-1101/SeedDown) · [▶ Live Prototype](https://seed-down.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -152,7 +122,6 @@ Multimodal fraud intelligence for suspicious URLs, text, and screenshots with st
 
 </td>
 </tr>
-
 </table>
 
 ---
@@ -161,9 +130,9 @@ Multimodal fraud intelligence for suspicious URLs, text, and screenshots with st
 
 ### 🏁 Competition & Product Builds
 
-| [**CocoCrunch**](https://github.com/meishuet16/CocoCrunch_GO) | CodeNection 2026 · Travel Planner Track | Collaborative travel-planning prototype with group preference alignment, transparent voting, budgets, disruption recovery, and interactive memories. [Live App](https://coco-crunch-go.vercel.app/) |
 | Project | Event / Context | What I worked on |
 |---|---|---|
+| [**CocoCrunch**](https://github.com/meishuet16/CocoCrunch_GO) | CodeNection 2026 · Travel Planner Track | Collaborative travel-planning prototype with group preference alignment, transparent voting, budgets, disruption recovery, and interactive memories. [Live App](https://coco-crunch-go.vercel.app/) |
 | [**Warung Wise**](https://github.com/meishuet16/Warung-Wise) | KitaHack 2026 | AI bookkeeping and financial intelligence for Malaysian micro-hawkers: receipt understanding, voice ledger, profit intelligence, loan simulation, and P&L reporting. |
 | [**PAYUNG**](https://github.com/meishuet16/GodamLah2.0) | GodamLah2.0 | Offline-first disaster-response concept around identity, health profiles, victim/rescuer workflows, and pitch direction. |
 | [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | SDG XI Hackathon | Sustainable housing assistant with commute-first recommendations, SDG 11 framing, and AI-assisted insights. |
